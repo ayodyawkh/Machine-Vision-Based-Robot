@@ -2,7 +2,7 @@
 This is a project which we did for the Robot Design and Competition Module in semester 3. 
 In this task we had to complete several subtasks.
 
-* Line following <\n>
+* Line following <n>
     The robot must follow a white line on a black surface. These paths may contain straight lines, curved lines, or dotted line segments.
 * Wall maze following <\n>
     After a line following section, the robot will have to navigate through a wall maze section. This maze will not contain any looping paths. (A single possible path from start to end is guaranteed.)
