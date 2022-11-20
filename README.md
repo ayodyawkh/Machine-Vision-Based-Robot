@@ -1,4 +1,4 @@
-# Machine-Vision-Based-Robot
+# Machine Vision Based Robot
 This is a project which we did for the Robot Design and Competition Module in semester 3. 
 In this task we had to complete several subtasks.
 
